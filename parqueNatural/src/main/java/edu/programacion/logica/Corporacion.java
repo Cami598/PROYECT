@@ -10,7 +10,7 @@ public class Corporacion {
 	    parques = new ArrayList<>();
 	}
 	
-	 public List<ParqueNatural> getParques() {
+	public List<ParqueNatural> getParques() {
 		 return parques;
 	}
 	 
