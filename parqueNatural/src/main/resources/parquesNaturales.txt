@@ -1,0 +1,9 @@
+   private String nombre; 
+	     private LocalDate fecha;
+	     private Integer noResolucion;
+	     private Double extension, altura, temperatura;
+	     private boolean estaCerrado;
+	     private String ubicacion;
+	     
+	     
+1234;PNN los nevados;
